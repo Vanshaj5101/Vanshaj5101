@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vanshajgupta5101@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/ResumeVanshajGupta](https://bit.ly/ResumeVanshajGupta)
+- 📄 Know about my experiences [https://bit.ly/Vanshaj_Gupta_Resume](http://bit.ly/Vanshaj_Gupta_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
