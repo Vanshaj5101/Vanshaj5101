@@ -7,11 +7,12 @@
 
 <p align="center">
   <!-- GitHub stats badge -->
-  ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshaj5101&show_icons=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshaj5101&show_icons=true&theme=dark" alt="Vanshaj's GitHub stats" />
   &nbsp; 
   <!-- Top languages used -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshaj5101&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshaj5101&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <!-- Contact / Social badges -->
