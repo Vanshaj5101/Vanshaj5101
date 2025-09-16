@@ -1,6 +1,6 @@
 <!-- 🚀 Vanshaj Gupta — GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I’m **Vanshaj Gupta**</h1>
+<h1 align="center">Hi there 👋, I’m Vanshaj Gupta</h1>
 <h3 align="center">Business & Data Analyst II | Data Engineering Enthusiast • SQL & Python Fan • Frontend Curious</h3>
 
 ---
