@@ -20,11 +20,11 @@
 
 ### 🧰 Skills & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,postgresql,git,docker,sql,tableau,airflow" />
-  </a>
-</p>
+**Programming / Languages**: Python · SQL · DAX · JavaScript · Java  
+**Data Visualization**: Tableau · Power BI · Looker · Matplotlib · Seaborn · Plotly  
+**Data Engineering / ETL**: Alteryx · Airflow · PySpark · NumPy · Pandas  
+**Other Tools / Libraries / Platforms**: Excel · Google Sheets · AWS · Salesforce · Databricks · TensorFlow · Keras · Scikit-learn  
+**Professional Skills**: Data Analytics · Data Visualization · Data Modeling · Business Intelligence · Project Management · Statistics · Data Integrity · Data Quality · Driving Business Impact · Drawing Actionable Insights · Storytelling · Problem Solving · Cross-Team Collaboration  
 
 
 ---
