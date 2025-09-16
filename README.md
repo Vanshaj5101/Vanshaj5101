@@ -5,14 +5,12 @@
 
 ---
 
-<!-- Badges / Stats / Contact -->
-
 <p align="center">
   <!-- GitHub stats badge -->
   ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshaj5101&show_icons=true&theme=dark)
   &nbsp; 
   <!-- Top languages used -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshaj5101&layout=compact&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshaj5101&layout=compact&theme=dark)
 </p>
 
 <p align="center">
@@ -46,7 +44,7 @@
 
 **Data Engineer** · Arizona State University ‒ Learning Enterprise, Tempe, AZ  
 *Jan 2024 – Jun 2025*  
-- Performed data modelling on **300K+ Salesforce records** in AWS Redshift using Airflow & Python; automated weekly pipelines, reduced operational cost, produced 4+ customized files to support team-OKR reporting.  
+- Performed data modeling on **300K+ Salesforce records** in AWS Redshift using Airflow & Python; automated weekly pipelines, reduced operational cost, produced 4+ customized files to support team-OKR reporting.  
 - Built 12+ Tableau and Looker Studio dashboards with automated refresh schedules & interactive visualizations for 7+ cross-functional teams; decreased monthly data team requests by **65%**.  
 - Migrated 8+ database tables from Star Schema to Relational Schema in Redshift; improved data architecture & query performance.  
 - Developed Python + SQL validation scripts for Redshift and PostgreSQL; reduced incorrect insights & system failures by **70%**, strengthened governance via schema documentation & code review.  
