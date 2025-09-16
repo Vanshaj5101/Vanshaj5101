@@ -22,9 +22,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,airflow,aws,redshift,postgresql,tableau,lookerstudio,powerbi,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,aws,postgresql,git,docker,sql,tableau,airflow" />
   </a>
 </p>
+
 
 ---
 
