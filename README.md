@@ -1,30 +1,38 @@
-<!--
-  🚀 Vanshaj Gupta — GitHub Profile README
--->
+<!-- 🚀 Vanshaj Gupta — GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I’m **Vanshaj Gupta**</h1>
 <h3 align="center">Business & Data Analyst II | Data Engineering Enthusiast • SQL & Python Fan • Frontend Curious</h3>
 
 ---
 
-### 🎯 What I do
+<!-- Badges / Stats / Contact -->
 
-- I build & maintain data pipelines, automations & ETL workflows to turn messy or scattered data into reliable, actionable insights.  
-- I create reporting dashboards & visualizations (Tableau, Looker Studio, Power BI etc.) to help stakeholders make data-driven decisions.  
-- I love writing clean SQL, efficient Python code, designing data models, and optimizing for performance and maintainability.  
-- I’m exploring frontend dev so I can bridge backend / analytics & the end user experience more tightly.
+<p align="center">
+  <!-- GitHub stats badge -->
+  ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshaj5101&show_icons=true&theme=dark)
+  &nbsp; 
+  <!-- Top languages used -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshaj5101&layout=compact&theme=dark)
+</p>
+
+<p align="center">
+  <!-- Contact / Social badges -->
+  <a href="https://www.linkedin.com/in/vanshajgupta"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:gupta.vanshaj05@gmail.com"><img src="https://img.shields.io/badge/Email-gupta.vanshaj05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://public.tableau.com/app/profile/vanshaj.gupta/vizzes"><img src="https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/></a>
+</p>
 
 ---
 
 ### 🧰 Skills & Tools
 
-| Category | Tech / Tools |
-|---|---|
-| **Data Engineering / ETL / Pipelines** | Apache Airflow, Python, BigQuery, AWS (Redshift), PostgreSQL, SQL (complex queries, materialized views), Alteryx |
-| **Reporting & Visualization** | Tableau (incl. Public), Looker Studio, Power BI, interactive dashboards & automated refreshes |
-| **Data Modeling & Architecture** | Relational schemas, star schema migrations, designing materialized views, data governance & validation |
-| **Automation / Efficiency** | Reducing manual report effort, automating data workflows, building scalable systems |
-| **Other Tools / Soft Skills** | Google Cloud, Excel / Google Sheets, stakeholder collaboration, code quality & documentation, cross-functional teamwork |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sql,airflow,aws,redshift,postgresql,tableau,lookerstudio,powerbi,git,docker" />
+  </a>
+</p>
 
 ---
 
@@ -74,16 +82,3 @@
 - Real-time data architecture and streaming pipelines.  
 - Robust software engineering practices in data work: modularity, testing, CI/CD, code reviews.  
 - Data governance, metadata, and reproducibility in large data environments.
-
----
-
-### 🤝 Let’s connect
-
-- 📫 Email: **gupta.vanshaj05@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/vanshajgupta](https://www.linkedin.com/in/vanshajgupta/)  
-- 🌐 Portfolio: [vanshajgupta.com](https://vanshajgupta.com/)  
-- 📊 Tableau: [Tableau Public – Vanshaj Gupta](https://public.tableau.com/app/profile/vanshaj.gupta/vizzes)
-
----
-
-If you want, I can format this with badges (skills, GitHub stats, etc.), or create a custom design (with icons) so it stands out. Do you want that version?  
